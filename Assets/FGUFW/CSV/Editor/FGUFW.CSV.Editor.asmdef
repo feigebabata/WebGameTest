@@ -1,0 +1,17 @@
+{
+    "name": "FGUFW.CSV.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:559fbe227f95568448fca764eab257dd",
+        "GUID:2763510ebba59ca40ba7c37e3587ae57"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

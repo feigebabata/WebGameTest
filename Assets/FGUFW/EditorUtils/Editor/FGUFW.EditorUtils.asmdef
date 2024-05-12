@@ -1,0 +1,17 @@
+{
+    "name": "FGUFW.EditorUtils",
+    "rootNamespace": "",
+    "references": [
+        "GUID:559fbe227f95568448fca764eab257dd",
+        "GUID:87e5f52d5e7e7c04ab251f4120e0efe5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
